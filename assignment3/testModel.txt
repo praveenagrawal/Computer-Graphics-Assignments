@@ -1,0 +1,4 @@
+1
+r2d2bodycropped.bmp
+1021	353
+cube.txt

@@ -1,0 +1,5 @@
+light name
+light_position (if 4th co-ordinate is 0, light is directional)
+light_intensity
+attenuation		ambientCoefficient		coneAngle
+coneDirection

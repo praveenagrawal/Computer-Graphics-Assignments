@@ -1,0 +1,6 @@
+nodeID
+Name of the node
+ParentID (-1 if root)
+
+Translation parameters (tx 	ty	tz	)	
+Rotation parameters (rx 	ry	rz	)			

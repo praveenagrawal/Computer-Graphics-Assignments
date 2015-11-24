@@ -1,0 +1,17 @@
+2
+
+r2d2
+r2d2Model.txt
+r2d2Hierarchy.txt
+
+B1
+humanoidModel.txt
+humanoidHierarchy.txt
+
+sceneLight.txt
+
+0.0		0.0		-20.0
+0.0		0.0		0.0
+0.5		0.5		1.0		1000.0
+
+sceneBackground.txt
